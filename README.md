@@ -1,3 +1,3 @@
-# angular-wb2usu
+# Angular start project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-wb2usu)
+Este es el proyecto completo seguido en la pagina oficial: https://angular.io/start
